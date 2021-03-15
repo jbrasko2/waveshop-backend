@@ -1,0 +1,2 @@
+class Synth < ApplicationRecord
+end
