@@ -129,7 +129,7 @@ Synth.create(
 Synth.create(
     name: "Dave Smith Instruments OB-6 Module 6-voice Polyphonic Analog Synthesizer Module",
     brand: "Dave Smith Instruments",
-    image: "https://media.sweetwater.com/api/i/q-82__ha-ae6a37694dbecfab__hmac-645659a5cb7d0309498042f75846a2aeb21a56fc/images/closeup/750-OB6mod_detail1.jpg",
+    image: "https://c1.zzounds.com/media/productmedia/fit,2018by3200/quality,85/OB-6DesktopModule-c2c71c9a4e5d2ab00ddb1242b62e4fb7.jpg",
     price: 2299.00,
     short_desc: "6-voice Analog Polysynth Module with 2 Oscillators and Sub Oscillator Per Voice, State-variable Filter, 64-step Polyphonic Step Sequencer, and Poly Chain Feature",
     long_desc: "What if two legendary synthesizer designers got together and built an analog polysynth using today's state-of-the-art technology? If you've just pinched yourself to see if you're dreaming, Sweetwater can assure you: you're not. Dave Smith Instruments OB-6 Module is a 6-voice, all-analog, desktop synth inspired by Tom Oberheim's classic SEM circuits from the 1970s. Tom and Dave packed the OB-6 Module with everything on your wish list. With two voltage-controlled oscillators and sub oscillator per voice, a state-variable filter, 64-step polyphonic step sequencer, twin digital effects engines, and more, Dave Smith Instruments OB-6 Module delivers fat, punchy, in-your-face sonics that will power your music to new heights.",
