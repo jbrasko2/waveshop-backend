@@ -1,7 +1,8 @@
 class UsersController < ApplicationController
 
     def create
-        User.create(user_params)
+        user = User.create(user_params)
+        render json: {user: UserSerializer.new(user), token: "test-token"}
     end
 
     private
@@ -9,5 +10,5 @@ class UsersController < ApplicationController
     def user_params
         params.permit(:username, :password)
     end
-    
+
 end
