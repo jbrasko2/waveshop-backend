@@ -16,6 +16,4 @@ class ApplicationController < ActionController::API
         User.find_by_id(decode_token)
     end
 
-    # decrypting token to always know who the logged in user is
-    # can't use current_user because it breaks serializer
 end
