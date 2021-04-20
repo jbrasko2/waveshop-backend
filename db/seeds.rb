@@ -9,7 +9,7 @@
 Synth.create(
     name: "Korg minilogue XD 4-voice Analog Synthesizer",
     brand: "Korg",
-    image: "https://media.guitarcenter.com/is/image/MMGS7//minilogue-xd-Polyphonic-Analog-Synthesizer-Black/L46462000001000-00-1600x1600.jpg",
+    image: "https://images.static-thomann.de/pics/bdb/457066/14351333_800.jpg",
     price: 649.99,
     short_desc: "4-voice Analog/Digital Synthesizer with 2 VCOs per Voice, Digital Multi-engine, Effects, 16-step Polyphonic Sequencer, 4 Voice Modes, and MIDI/Sync I/O",
     long_desc: "With the Korg minilogue XD hybrid synthesizer, you’ve got a 4-voice analog synth bolstered by Korg’s digital multi-engine. Factor in the built-in effects, powerful sequencer, and micro tuning capability, and you have a full-featured sound design system at your fingertips. It’s based on the analog synth circuit from the minilogue, further refined for maximum sonic appeal. And with the digital multi-engine giving you access to four types of noise, a VPM/FM oscillator, and your own custom user oscillators, there’s a lifetime of creative potential to be explored with the Korg minilogue XD hybrid synthesizer.",
